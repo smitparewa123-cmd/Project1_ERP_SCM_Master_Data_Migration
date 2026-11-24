@@ -1,0 +1,7 @@
+SKU,Item_Description,Item_Type,Unit_Cost_INR,Selling_Price_INR,Current_Stock,Reorder_Point
+RM-001,Industrial Ethanol 99%,Raw Material,85.0,0.0,5000,1500
+RM-002,Purified Water Base,Raw Material,12.5,0.0,12000,3000
+PKG-01,Glass Bottle 750ml,Packaging,28.0,0.0,-150,1000
+PKG-02,Corrugated Box 12-Pack,Packaging,42.0,0.0,1800,600
+FG-100,Premium Spirit 750ml,Finished Good,,450.0,950,400
+FG-200,Reserve Blend 750ml,Finished Good,,620.0,420,250
